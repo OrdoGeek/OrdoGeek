@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ordogeek&label=Profile%20views&color=0e75b6&style=flat" alt="ordogeek" /> </p>
 
-<p align="left">I am a Telecommunications Engineering student. Since I started my degree, I set out to build a programmer profile, thus, since my first semester I have been dedicated to learn different programming languages on my own, such as Python, Java and C++ in the BackEnd, and HTML and CSS in the FrontEnd. I am locking for an opportunity in order to start my developer career. You can find in my repositories some of the projects I have done.</p>
+<p align="left">I am a Telecommunications Engineering student. Since I started my degree, I set out to build a programmer profile, thus, since my first semester I have been dedicated to learn different programming languages on my own, such as Python, Java and C++ in the BackEnd, and HTML and CSS in the FrontEnd. I am looking for an opportunity in order to start my developer career. You can find in my repositories some of the projects I have done.</p>
 
 <h3>💻 Volunteer Experiece</h3>
 I have been the WebMaster of Dulce Hogar, which is a non-profit organization placed in Medellín, Colombia
